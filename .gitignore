@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+data/raw/
+data/processed/
+WorkFlow.txt
+WorkFlow_UPDATED.txt
+WorkFlow_detailed_append.txt
+Schedule_Plan.txt
+pipeline_run_summary.txt
+Literature_Survey.txt
+outputs/
